@@ -1,3 +1,4 @@
+<img width="1852" height="911" alt="Screenshot 2026-07-10 235644" src="https://github.com/user-attachments/assets/199a5e77-f16a-44a2-87c7-220edb92535b" />
 # 🧠 KnowledgeGPT — RAG Chatbot with Conversational Memory
 
 An AI-powered chatbot that answers questions from your own documents (PDF, TXT) 
